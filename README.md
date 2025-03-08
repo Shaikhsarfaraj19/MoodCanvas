@@ -1,2 +1,2 @@
 # MoodCanvas
-This is the game when you select mood emoji according your mood and write some points according to your mood (word count maximum 20 words) and then click on Get AI Insights buttons you will get response according to your answer type
+This game allows you to choose the appropriate mood emoji and write a maximum of 20 words about your mood. After you click the "Get AI Insights" buttons, you will receive a response based on the sort of response you provided.
